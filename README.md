@@ -8,9 +8,8 @@
 
 - :hearts:&emsp;I enjoy programming and sharing knowledge
 - :computer:&emsp;Most used line of code `print("hello world")`
-- 💬 Ask me about programming and coding related problems -> gkchowdhury101@gmail.com
-- 📫 Reach me through my [Linkedin](https://www.linkedin.com/in/gulam-kibria-chowdhury-g-k).
-- ⚡ Fun fact: I have also experience in Competitive Programming Problem Solving. Checkout my profiles at [Stopstalk](https://www.stopstalk.com/user/profile/Gulam_Kibria).
+- 💬  Ask me about programming and coding related problems -> gkchowdhury101@gmail.com
+- ⚡  Fun fact: I have also experience in Competitive Programming Problem Solving. Checkout my profiles at [Stopstalk](https://www.stopstalk.com/user/profile/Gulam_Kibria).
  
 
 ## Profile Visits
@@ -20,6 +19,7 @@
 ## Github Stats
 
 | <a href="https://github.com/GK-CPP/github-readme-stats"><mg align="center" src="https://github-readme-stats.vercel.app/api?username=GK-CPP&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="GK-CPP github stats" /></a> | <a href="https://github.com/GK-CPP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-CPP&layout=compact&theme=gruvbox&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!-- https://github.com/GK-CPP/github-readme-activity-graph -->
 <a href="https://github.com/GK-CPP"><img alt="GK-CPP Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GK-CPP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
