@@ -1,6 +1,6 @@
 
 <!--Welcome Message-->
-## Hi, 👋there, I'm Gulam Kibria Chowdjhury
+## Hi, 👋there, I'm Gulam Kibria Chowdhury
 
 <!--Short Description about me and my work & Social Media link-->
 ## Connect with me:
@@ -22,8 +22,9 @@
 | ------------- | ------------- |
 
 
+
 <!-- https://github.com/GK-CPP/github-readme-activity-graph -->
-<a href="https://github.com/GK-CPP"><img alt="GK-CPP Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GK-CPP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+| <a href="https://github.com/GK-CPP"><img alt="GK-CPP Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GK-CPP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> |
 
 
 <details>
