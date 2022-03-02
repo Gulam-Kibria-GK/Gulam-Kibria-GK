@@ -10,11 +10,6 @@
 - :computer: Most used line of code `print("hello world")`
 - 💬 Ask me about programming and coding related problems -> gkchowdhury101@gmail.com
 - ⚡ Fun fact: I have also experience in Competitive Programming Problem Solving. Checkout my profiles at [Stopstalk](https://www.stopstalk.com/user/profile/Gulam_Kibria).
- 
-
-## Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GK-CPP.GK-CPP)
 
 ## Github Stats
 
@@ -24,6 +19,9 @@
 <!-- https://github.com/GK-CPP/github-readme-activity-graph -->
 <a href="https://github.com/GK-CPP"><img alt="GK-CPP Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GK-CPP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> 
 
+## Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GK-CPP.GK-CPP)
 
 <details>
 <summary> Click for More Details
