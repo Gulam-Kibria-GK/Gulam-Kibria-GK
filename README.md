@@ -13,8 +13,11 @@
 
 ## Github Stats
 
-| <a href="https://github.com/GK-CPP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GK-CPP&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="GK-CPP github stats" /></a> | <a href="https://github.com/Gk-CPP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-CPP&layout=compact&theme=gruvbox&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/GK-CPP">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GK-CPP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GK-CPP&layout=compact&langs_count=10&theme=algolia"/>
+</a>
+
 
 ## Profile Visits
 
