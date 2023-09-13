@@ -19,7 +19,7 @@
 
 <a href="https://github.com/GK-CPP">
     <img height="200em" align='left' src="https://github-readme-stats-eight-theta.vercel.app/api?username=GK-CPP&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="200em" align='right' weight="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
+    <img height="200em" align='right' weight="500em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GK-CPP&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
 </a>
 
 ## Profile Visits
