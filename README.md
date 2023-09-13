@@ -15,23 +15,17 @@
 
 ## Github Stats
 
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <a href="https://github.com/GK-CPP">
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GK-CPP&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="200em" weight="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-CPP&layout=compact&langs_count=10&theme=gruvbox&hide_border=true"/>
+    <img height="200em" weight="700em" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
 </a>
-
-<!--
-<a href="https://github.com/GK-CPP">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GK-CPP&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="GK-CPP github stats" /></a>
-<a href="https://github.com/Gk-CPP/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-CPP&layout=compact&theme=gruvbox&hide_border=true" /></a>
--->
 
 ## Profile Visits
 
 ![Profile Visitors](https://komarev.com/ghpvc/?username=GK-CPP)
-
-<a href=https://github.com/GK-CPP/github-readme-activity-graph></a>
-<a href="https://github.com/GK-CPP"><img alt="GK-CPP Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GK-CPP&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
 
 <details>
 <summary> Click for More Details
