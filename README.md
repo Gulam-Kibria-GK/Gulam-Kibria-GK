@@ -15,11 +15,11 @@
 
 ## Github Stats
 
-<img src="https://myreadme.vercel.app/api/embed/GK-CPP?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/GK-CPP?panels=userstatistics,toprepositories" alt="reimaginedreadme" />
 
 <a href="https://github.com/GK-CPP">
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GK-CPP&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="200em" weight="600em" src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
+    <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/>
 </a>
 
 ## Profile Visits
