@@ -15,21 +15,21 @@
 
 ## Github Stats
 
-<!-- <img src="https://myreadme.vercel.app/api/embed/GK-CPP?panels=userstatistics,toprepositories" alt="reimaginedreadme" /> -->
+<!-- <img src="https://myreadme.vercel.app/api/embed/Gulam-Kibria-GK?panels=userstatistics,toprepositories" alt="reimaginedreadme" /> -->
 
-<img height="200em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=GK-CPP&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="200em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gulam-Kibria-GK&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true"/>
 
- <!-- <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=GK-CPP&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/> -->
+ <!-- <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Gulam-Kibria-GK&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/> -->
 
 ## Profile Visits
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=GK-CPP)
+![Profile Visitors](https://komarev.com/ghpvc/?username=Gulam-Kibria-GK)
 
 <details>
 <summary> Click for More Details
 </summary>
 <br>
 
-![Metrics](https://metrics.lecoq.io/GK-CPP?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/Gulam-Kibria-GK?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 </details>
